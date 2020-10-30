@@ -17,3 +17,7 @@ MQTT protocal is used for communication between PC and Android mobile.
 ![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/pc2.png)
 
 ![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/pc3.png)
+
+
+## License
+[GNU GPL v2](https://www.gnu.org/licenses/gpl-2.0.html) and [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
