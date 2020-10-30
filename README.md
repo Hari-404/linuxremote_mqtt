@@ -4,16 +4,16 @@ This project explores the possibility of controlling the computer remotely using
 
 MQTT protocal is used for communication between PC and Android mobile.
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/android1.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/android1.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/android2.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/android2.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/android3.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/android3.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/android4.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/android4.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/pc1.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/pc1.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/pc2.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/pc2.png)
 
-![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/master/images/pc3.png)
+![alt text](https://github.com/Hari-404/linuxremote_mqtt/blob/main/images/pc3.png)
