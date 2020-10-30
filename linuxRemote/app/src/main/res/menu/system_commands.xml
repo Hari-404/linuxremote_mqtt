@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/power_off"
+        android:title="Power Off"
+        android:icon="@drawable/power_red">
+    </item>
+
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/restart"
+        android:title="Restart"
+        android:icon="@drawable/restart_green">
+    </item>
+
+    <item
+        android:id="@+id/mouseSensitivity"
+        android:title="Mouse Sensitivity">
+    </item>
+
+</menu>

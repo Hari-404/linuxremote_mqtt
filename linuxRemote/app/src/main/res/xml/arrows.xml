@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+<Keyboard
+    android:keyWidth="20%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="45dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row>
+        <Key android:codes="309" android:keyLabel="home" android:keyEdgeFlags="left"  />
+        <Key android:codes="307" android:keyIcon="@drawable/arrow_up_white_24dp" />
+        <Key android:codes="316" android:keyLabel="pg up" />
+        <Key android:codes="322"   android:keyLabel="prt sc" android:keyHeight="90dp" />
+        <Key android:codes="260" android:keyIcon="@drawable/volume_up_white_24dp" android:keyHeight="90dp" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="306" android:keyIcon="@drawable/arrow_left_white_24dp" android:keyEdgeFlags="left"  />
+        <Key android:codes="262" android:keyIcon="@drawable/ic_volume_off_black_24dp" />
+        <Key android:codes="305" android:keyIcon="@drawable/arrow_right_white_24dp" />
+
+    </Row>
+    <Row>
+        <Key android:codes="308" android:keyLabel="end" android:keyEdgeFlags="left"/>
+        <Key android:codes="304" android:keyIcon="@drawable/arrow_down_white_24dp" />
+        <Key android:codes="315" android:keyLabel="pg dn" />
+        <Key android:codes="326"   android:keyIcon="@drawable/ic_win_key" android:keyHeight="90dp"/>
+        <Key android:codes="261" android:keyIcon="@drawable/volume_down_white_24dp" android:keyHeight="90dp" android:keyEdgeFlags="right" />
+
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="310" android:keyLabel="ins" android:keyWidth="40%p"  android:keyEdgeFlags="left"/>
+        <Key android:codes="303" android:keyLabel="del" />
+
+    </Row>
+</Keyboard>
+-->
+
+<Keyboard
+    android:keyWidth="20%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="45dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row>
+        <Key android:codes="309" android:keyLabel="home"   />
+        <Key android:codes="307" android:keyIcon="@drawable/arrow_up_white_24dp" />
+        <Key android:codes="316" android:keyLabel="pg up" />
+        <Key android:codes="322" android:keyLabel="prt sc" android:keyHeight="90dp" />
+        <Key android:codes="260" android:keyIcon="@drawable/volume_up_white_24dp" android:keyHeight="90dp" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="306" android:keyIcon="@drawable/arrow_left_white_24dp"  />
+        <Key android:codes="262" android:keyIcon="@drawable/ic_volume_off_black_24dp" />
+        <Key android:codes="305" android:keyIcon="@drawable/arrow_right_white_24dp" />
+
+    </Row>
+    <Row>
+        <Key android:codes="308" android:keyLabel="end" />
+        <Key android:codes="304" android:keyIcon="@drawable/arrow_down_white_24dp" />
+        <Key android:codes="315" android:keyLabel="pg dn" />
+        <!--<Key android:codes="326" android:keyIcon="@drawable/ic_win_key" android:keyHeight="90dp"/>-->
+        <Key android:codes="326" android:keyLabel="win" android:keyHeight="90dp"/>
+        <Key android:codes="261" android:keyIcon="@drawable/volume_down_white_24dp" android:keyHeight="90dp" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="310" android:keyLabel="ins" android:keyWidth="40%p"  />
+        <Key android:codes="303" android:keyLabel="del" />
+
+    </Row>
+</Keyboard>

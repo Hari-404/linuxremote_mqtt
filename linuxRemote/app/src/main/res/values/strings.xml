@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">linuxRemote</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Linux Remote</string>
+    <!--<string name="nav_header_subtitle">v. &#x3B2;</string>-->
+    <string name="nav_header_subtitle">v. &#x3B2;</string>
+
+    <string name="version" > &#x3B2;eta</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="mouse_help">Move your finger on the screen to move the mouse cursor. Tap for single click. Two finger tap for right click. Three finger tap for middle click. Long press to drag and single tap for release.</string>
+
+</resources>
